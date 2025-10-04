@@ -1,0 +1,40 @@
+    # Byte-compiled / optimized / compiled files
+    __pycache__/
+    *.pyc
+    *.pyd
+    *.pyo
+
+    # Caches
+    .pytest_cache/
+    .mypy_cache/
+    .ruff_cache/
+
+    # Environments
+    .env
+    venv/
+    env/
+    # If using pipenv
+    .venv/
+
+    # Database
+    *.sqlite3
+    *.db
+
+    # Media and Static files (if served locally and not part of the source control)
+    media/
+    static/
+
+    # IDE-specific files
+    .idea/
+    .vscode/
+
+    # Logs
+    *.log
+    logs/
+
+    # OS generated files
+    .DS_Store
+    Thumbs.db
+
+    # Temporary files
+    *~
